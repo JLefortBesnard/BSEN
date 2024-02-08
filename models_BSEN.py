@@ -1,8 +1,9 @@
 """
 BSEN
 2019
-Author:
-        Wan-Ting Hsieh       cclee@ee.nthu.edu.tw
+Authors:
+        Wan-Ting Hsieh        cclee@ee.nthu.edu.tw
+        Jérémy Lefort-Besnard jlefortbesnard [at] tuta [dot] io
 
 """
 
